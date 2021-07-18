@@ -1,2 +1,2 @@
-# python-blog
+# first-blog
 blog by me
